@@ -123,7 +123,12 @@
       "landscape_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/landscape/colorado.jpg",
       "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/colorado.jpg",
       "twitter_url": "https://twitter.com/coloradogov",
-      "facebook_url": "https://www.facebook.com/Colorado.gov"
+      "facebook_url": "https://www.facebook.com/Colorado.gov",
+      "funfacts": [
+                    "Colorado has the highest average elevation of any U.S. state at 6,800 feet above sea level.", 
+                    "I would one day love to live in Colorado.", 
+                    "Denver claims to have invented the cheeseburger—Louis Ballast of the Humpty Dumpty Drive-In trademarked it in 1935."
+                    ]
     },
     {
       "state": "Connecticut",
@@ -333,7 +338,10 @@
       "landscape_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/landscape/kansas.jpg",
       "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/kansas.jpg",
       "twitter_url": "http://www.twitter.com/ksgovernment",
-      "facebook_url": "http://www.facebook.com/pages/Topeka-KS/Kansasgov-Kansas-Government-Online/52068474220"
+      "facebook_url": "http://www.facebook.com/pages/Topeka-KS/Kansasgov-Kansas-Government-Online/52068474220",
+      "funfacts": ["My online college is located in Fort Hays, Kansas",
+                  "Dodge City, Kansas, is known as the 'Windiest City in America' with an average wind speed of 14 mph.",
+                  "Helium was discovered in Kansas in 1905 during a natural gas drilling operation in Dexter."]
     },
     {
       "state": "Kentucky",
@@ -522,7 +530,12 @@
       "landscape_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/landscape/missouri.jpg",
       "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/missouri.jpg",
       "twitter_url": "https://twitter.com/MoGov",
-      "facebook_url": "https://www.facebook.com/mogov"
+      "facebook_url": "https://www.facebook.com/mogov",
+      "funfacts": [
+                    "Missouri is known as the 'Show-Me State,' a phrase attributed to a congressman who demanded proof.", 
+                    "St. Louis hosted the 1904 World’s Fair, where the ice cream cone was first popularized.", 
+                    "The state is the leading producer of mined lead in the U.S., earning it the nickname 'The Lead State.'"
+                  ]
     },
     {
       "state": "Montana",
@@ -564,7 +577,12 @@
       "landscape_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/landscape/nebraska.jpg",
       "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/nebraska.jpg",
       "twitter_url": "https://twitter.com/Nebraskagov",
-      "facebook_url": "https://www.facebook.com/nebraska.gov"
+      "facebook_url": "https://www.facebook.com/nebraska.gov",
+      "funfacts": [
+                  "Nebraska’s state flag is the only U.S. state flag that is not rectangular—it features a gold fringe on three sides.", 
+                  "Kool-Aid was invented in Hastings, Nebraska, in 1927 by Edwin Perkins.", 
+                  "The largest hand-planted forest in the U.S., the Nebraska National Forest, was entirely planted by humans."
+                  ]
     },
     {
       "state": "Nevada",
@@ -753,7 +771,12 @@
       "landscape_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/landscape/oklahoma.jpg",
       "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/oklahoma.jpg",
       "twitter_url": "https://twitter.com/okgov",
-      "facebook_url": "https://www.facebook.com/okgov"
+      "facebook_url": "https://www.facebook.com/okgov",
+      "funfacts": [
+                  "Oklahoma has more man-made lakes than any other state, with over 200.", 
+                  "The parking meter was invented in Oklahoma City in 1935 by Carl Magee.", 
+                  "The state name comes from the Choctaw words 'okla' (people) and 'humma' (red), meaning 'red people.'"
+                  ]
     },
     {
       "state": "Oregon",

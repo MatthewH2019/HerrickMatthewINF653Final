@@ -5,7 +5,6 @@ const path = require('path');
 const cors = require('cors');
 const { logger } = require('./middleware/logEvents');
 const errorHandler = require('./middleware/errorHandler');
-const corsOptions = require('./config/corsOptions');
 const mongoose = require('mongoose');
 const connectDB = require('./config/dbConn');
 const PORT = process.env.PORT || 3500;
@@ -17,7 +16,7 @@ connectDB();
 app.use(logger);
 
 // Cross Origin Resource Sharing (CORS)
-app.use(cors(corsOptions));
+app.use(cors());
 
 app.use(express.urlencoded({extended: false}));
 
