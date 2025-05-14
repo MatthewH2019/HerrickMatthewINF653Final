@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^2.29.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^5.3.0",
+    "mongoose": "^7.1.0",
+    "uuid": "^9.0.0"
+  },
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "engines": {
+    "node": "^16.0.0"
+  },
+  "name": "HerrickMatthewINF653Final",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "Matthew Herrick",
+  "license": "ISC",
+  "description": "INF653 Node.js REST API Project",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
